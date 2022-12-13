@@ -12,7 +12,7 @@ This project consists of a CRUD application working with MongoDB NoSql database.
 const taskSchema = new Schema({
   _id: String,
   name: String,
-  completedEn: Date || null
+  completedAt: Date || null
 });
 
 ```
