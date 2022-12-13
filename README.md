@@ -4,7 +4,7 @@ This project consists of a CRUD application working with MongoDB NoSql database.
 
 ## How can I run this application?
 
-You must have MongoDB installed on your PC, you can also download Docker and create a container with a MongoDB image and run it by connecting port 27017 of the container to your local port 27017.
+1. You must have MongoDB installed on your PC, you can also download Docker and create a container with a MongoDB image and run it by connecting port 27017 of the container to your local port 27017.
 
 2. The database name must be called "Todo" and you must create a "Task" collection. The schema contains the following data:
 
