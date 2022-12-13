@@ -24,5 +24,3 @@ const taskSchema = new Schema({
 
 
 Thanks for your attention and if you want to give any comments to make it better, I listen to you.
-
-Translated with www.DeepL.com/Translator (free version)
